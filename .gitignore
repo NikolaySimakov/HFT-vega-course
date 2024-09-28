@@ -9,6 +9,8 @@
 env/
 venv/
 *.session
+build/
+
 
 # vscode
 .vscode/
