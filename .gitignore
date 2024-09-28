@@ -1,0 +1,15 @@
+# Cache files
+.DS_Store
+
+# Project files
+*.log
+.env
+.env.dev
+.env.test
+env/
+venv/
+*.session
+
+# vscode
+.vscode/
+.history/
